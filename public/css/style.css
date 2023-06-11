@@ -1,0 +1,24 @@
+.footer,
+.bg-primary {
+    background-color: #21393A !important;
+}
+
+.list-group > .active,
+.btn-primary {
+    background-color: #008891 !important;
+    border: 0;
+}
+
+.nav-tabs > .nav-item > .nav-link {
+    color: #008891 !important;
+}
+
+.navbar {
+    background-color: #21393A !important;
+    height: 100px !important;
+}
+
+.dropdown-toggle {
+    outline: 0;
+}
+
